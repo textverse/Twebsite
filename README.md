@@ -1,2 +1,4 @@
-# Twiki
-New wiki like site about Textverse, to show the designation and roadmap and etc.
+# Textverse website
++ 1. Show what we are.
++ 2. Show compositions and issues with bounties.
++ 3. Show the progress of building.
